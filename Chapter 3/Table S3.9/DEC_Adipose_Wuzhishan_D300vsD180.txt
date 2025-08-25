@@ -1,0 +1,1 @@
+circ_id	circ_name	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	W300_1SF	W300_2SF	W300_3SF	W300_1PF	W300_2PF	W300_3PF	W180_1SF	W180_2SF	W180_3SF	W180_1PF	W180_2PF	W180_3PF
